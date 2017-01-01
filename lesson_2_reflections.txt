@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+  It creates a .git file that tracks files being synced with git. This file likely also contains other pertinent information about your git repository.
+
+Now that you have your workspace set up, what do you want to try using it for?
+
+  Pushing my commits to github and logging changes with branches!
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+  The staging area is working within the directory but hasn't been pushed to the repository yet. This is valuable because not everything in my staging area might be ready to be pushed to the repository yet.
