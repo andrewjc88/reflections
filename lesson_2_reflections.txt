@@ -9,3 +9,11 @@ Now that you have your workspace set up, what do you want to try using it for?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
   The staging area is working within the directory but hasn't been pushed to the repository yet. This is valuable because not everything in my staging area might be ready to be pushed to the repository yet.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+  You can make sure you are using the staging area to only commit one logical change per logical commit but only adding one file to the staging area at a time.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+  The result of merging two branches together is that the two branches become one. I this instance the coin branch merges with the master branch and their commit histories are merged together.
