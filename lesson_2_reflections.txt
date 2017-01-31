@@ -17,3 +17,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
   The result of merging two branches together is that the two branches become one. I this instance the coin branch merges with the master branch and their commit histories are merged together.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+  Some pros of using git's auto merging are the fact that it is very efficient and automatically shows merge issues in the code for me to review. A con of using it is the fact that sometimes code may be duplicated if two users write the same code but in different places.
