@@ -16,14 +16,14 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-		The benefit of having a local copy of the last known state of the remote is you will know of any conflicts that may arise between the two. 
+		The benefit of having a local copy of the last known state of the remote is you will know of any potential conflicts that may arise between them.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I might try to collaborate without github or git by using a separate text document where all contributors could write a log of their changes. This would be much harder and would likely lead to more conflicts and more errors in code.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Branching out from master has the benefit of giving you the ability to try new things without affecting the master branch where others might be working. It also gives you the ability to share your changes to the master branch with others before merging it in. 
